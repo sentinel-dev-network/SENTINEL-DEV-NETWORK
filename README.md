@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [envdiff](https://github.com/sentinel-dev-network/envdiff) | Diff .env files, secret-masking by default | [repo](https://github.com/sentinel-dev-network/envdiff) |
 | [cronspeak](https://github.com/sentinel-dev-network/cronspeak) | Explain any cron expression in plain English + show next run times | [repo](https://github.com/sentinel-dev-network/cronspeak) |
 
 ## Transparency
