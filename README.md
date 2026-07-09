@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [durationparse](https://github.com/sentinel-dev-network/durationparse) | Parse/format durations: 1h30m <-> seconds, clock + word styles | [repo](https://github.com/sentinel-dev-network/durationparse) |
 | [humansize](https://github.com/sentinel-dev-network/humansize) | Byte sizes both ways: 1.5GB <-> bytes, SI+IEC, stdlib only | [repo](https://github.com/sentinel-dev-network/humansize) |
 | [envdiff](https://github.com/sentinel-dev-network/envdiff) | Diff .env files, secret-masking by default | [repo](https://github.com/sentinel-dev-network/envdiff) |
 | [cronspeak](https://github.com/sentinel-dev-network/cronspeak) | Explain any cron expression in plain English + show next run times | [repo](https://github.com/sentinel-dev-network/cronspeak) |
