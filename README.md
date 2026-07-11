@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [tzmeet](https://github.com/sentinel-dev-network/tzmeet) | Overlapping working hours across timezones, DST/date-line correct | [repo](https://github.com/sentinel-dev-network/tzmeet) |
 | [slugify](https://github.com/sentinel-dev-network/slugify) | Unicode-aware slug generator, stdlib only | [repo](https://github.com/sentinel-dev-network/slugify) |
 | [durationparse](https://github.com/sentinel-dev-network/durationparse) | Parse/format durations: 1h30m <-> seconds, clock + word styles | [repo](https://github.com/sentinel-dev-network/durationparse) |
 | [humansize](https://github.com/sentinel-dev-network/humansize) | Byte sizes both ways: 1.5GB <-> bytes, SI+IEC, stdlib only | [repo](https://github.com/sentinel-dev-network/humansize) |
