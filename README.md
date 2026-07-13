@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [retrycmd](https://github.com/sentinel-dev-network/retrycmd) | Retry any shell command with exponential backoff | [repo](https://github.com/sentinel-dev-network/retrycmd) |
 | [csvpeek](https://github.com/sentinel-dev-network/csvpeek) | Quick CSV summary: columns, inferred types, row count, null counts (stdlib-only) | [repo](https://github.com/sentinel-dev-network/csvpeek) |
 | [tzmeet](https://github.com/sentinel-dev-network/tzmeet) | Overlapping working hours across timezones, DST/date-line correct | [repo](https://github.com/sentinel-dev-network/tzmeet) |
 | [slugify](https://github.com/sentinel-dev-network/slugify) | Unicode-aware slug generator, stdlib only | [repo](https://github.com/sentinel-dev-network/slugify) |
