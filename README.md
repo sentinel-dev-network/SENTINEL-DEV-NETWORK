@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [jsonflat](https://github.com/sentinel-dev-network/jsonflat) | flatten JSON to grep-able dot-paths and back | [repo](https://github.com/sentinel-dev-network/jsonflat) |
 | [passphrase](https://github.com/sentinel-dev-network/passphrase) | Memorable, high-entropy passphrase generator (stdlib only, CSPRNG). | [repo](https://github.com/sentinel-dev-network/passphrase) |
 | [retrycmd](https://github.com/sentinel-dev-network/retrycmd) | Retry any shell command with exponential backoff | [repo](https://github.com/sentinel-dev-network/retrycmd) |
 | [csvpeek](https://github.com/sentinel-dev-network/csvpeek) | Quick CSV summary: columns, inferred types, row count, null counts (stdlib-only) | [repo](https://github.com/sentinel-dev-network/csvpeek) |
