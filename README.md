@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [semvercmp](https://github.com/sentinel-dev-network/semvercmp) | Compare/sort/validate SemVer 2.0.0 - stdlib lib + CLI | [repo](https://github.com/sentinel-dev-network/semvercmp) |
 | [redactlog](https://github.com/sentinel-dev-network/redactlog) | Scrub secrets/tokens/emails/IPs from logs before sharing | [repo](https://github.com/sentinel-dev-network/redactlog) |
 | [jsonflat](https://github.com/sentinel-dev-network/jsonflat) | flatten JSON to grep-able dot-paths and back | [repo](https://github.com/sentinel-dev-network/jsonflat) |
 | [passphrase](https://github.com/sentinel-dev-network/passphrase) | Memorable, high-entropy passphrase generator (stdlib only, CSPRNG). | [repo](https://github.com/sentinel-dev-network/passphrase) |
