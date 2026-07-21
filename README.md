@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [jwtpeek](https://github.com/sentinel-dev-network/jwtpeek) | Offline JWT decoder: human timestamps, expiry status, ms-bug detection | [repo](https://github.com/sentinel-dev-network/jwtpeek) |
 | [mdtoc](https://github.com/sentinel-dev-network/mdtoc) | GitHub-compatible Markdown TOC generator/updater | [repo](https://github.com/sentinel-dev-network/mdtoc) |
 | [cidrpeek](https://github.com/sentinel-dev-network/cidrpeek) | Explain a CIDR: network, broadcast, host range, contains/overlaps checks | [repo](https://github.com/sentinel-dev-network/cidrpeek) |
 | [uuidtool](https://github.com/sentinel-dev-network/uuidtool) | UUID generate/inspect: monotonic v7, timestamp extraction | [repo](https://github.com/sentinel-dev-network/uuidtool) |
