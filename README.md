@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [curl2py](https://github.com/sentinel-dev-network/curl2py) | Convert a curl command into clean Python (urllib or requests) | [repo](https://github.com/sentinel-dev-network/curl2py) |
 | [chmodcalc](https://github.com/sentinel-dev-network/chmodcalc) | Explain chmod modes: octal↔symbolic, apply POSIX ops, English breakdown | [repo](https://github.com/sentinel-dev-network/chmodcalc) |
 | [jwtpeek](https://github.com/sentinel-dev-network/jwtpeek) | Offline JWT decoder: human timestamps, expiry status, ms-bug detection | [repo](https://github.com/sentinel-dev-network/jwtpeek) |
 | [mdtoc](https://github.com/sentinel-dev-network/mdtoc) | GitHub-compatible Markdown TOC generator/updater | [repo](https://github.com/sentinel-dev-network/mdtoc) |
