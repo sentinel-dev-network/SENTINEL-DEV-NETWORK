@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [envsort](https://github.com/sentinel-dev-network/envsort) | Canonicalise .env files so diffs stop churning: sort, dedupe, group, normalise quoting | [repo](https://github.com/sentinel-dev-network/envsort) |
 | [headerlint](https://github.com/sentinel-dev-network/headerlint) | Offline HTTP response header linter (HSTS, CSP, cookies, CORS) — stdlib only | [repo](https://github.com/sentinel-dev-network/headerlint) |
 | [curl2py](https://github.com/sentinel-dev-network/curl2py) | Convert a curl command into clean Python (urllib or requests) | [repo](https://github.com/sentinel-dev-network/curl2py) |
 | [chmodcalc](https://github.com/sentinel-dev-network/chmodcalc) | Explain chmod modes: octal↔symbolic, apply POSIX ops, English breakdown | [repo](https://github.com/sentinel-dev-network/chmodcalc) |
