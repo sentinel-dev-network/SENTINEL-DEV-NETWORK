@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [tarpeek](https://github.com/sentinel-dev-network/tarpeek) | Audit tar/zip archives for extraction hazards before unpacking | [repo](https://github.com/sentinel-dev-network/tarpeek) |
 | [urlpeek](https://github.com/sentinel-dev-network/urlpeek) | URL dissector: punycode reveal + phishing flags | [repo](https://github.com/sentinel-dev-network/urlpeek) |
 | [sqlformat-mini](https://github.com/sentinel-dev-network/sqlformat-mini) | Deterministic tiny SQL formatter, stdlib only | [repo](https://github.com/sentinel-dev-network/sqlformat-mini) |
 | [envsort](https://github.com/sentinel-dev-network/envsort) | Canonicalise .env files so diffs stop churning: sort, dedupe, group, normalise quoting | [repo](https://github.com/sentinel-dev-network/envsort) |
