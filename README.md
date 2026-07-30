@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [gitignore-audit](https://github.com/sentinel-dev-network/gitignore-audit) | Tracked files your .gitignore says should be ignored + committed secrets | [repo](https://github.com/sentinel-dev-network/gitignore-audit) |
 | [colorhex](https://github.com/sentinel-dev-network/colorhex) | Color converter + WCAG contrast checker | [repo](https://github.com/sentinel-dev-network/colorhex) |
 | [tarpeek](https://github.com/sentinel-dev-network/tarpeek) | Audit tar/zip archives for extraction hazards before unpacking | [repo](https://github.com/sentinel-dev-network/tarpeek) |
 | [urlpeek](https://github.com/sentinel-dev-network/urlpeek) | URL dissector: punycode reveal + phishing flags | [repo](https://github.com/sentinel-dev-network/urlpeek) |
