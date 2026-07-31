@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [linechurn](https://github.com/sentinel-dev-network/linechurn) | Per-file git churn hotspots from --numstat, rename-aware, stdlib only | [repo](https://github.com/sentinel-dev-network/linechurn) |
 | [gitignore-audit](https://github.com/sentinel-dev-network/gitignore-audit) | Tracked files your .gitignore says should be ignored + committed secrets | [repo](https://github.com/sentinel-dev-network/gitignore-audit) |
 | [colorhex](https://github.com/sentinel-dev-network/colorhex) | Color converter + WCAG contrast checker | [repo](https://github.com/sentinel-dev-network/colorhex) |
 | [tarpeek](https://github.com/sentinel-dev-network/tarpeek) | Audit tar/zip archives for extraction hazards before unpacking | [repo](https://github.com/sentinel-dev-network/tarpeek) |
