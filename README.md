@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [regexplain](https://github.com/sentinel-dev-network/regexplain) | Explain a regex in plain English + ReDoS pitfall warnings, offline stdlib | [repo](https://github.com/sentinel-dev-network/regexplain) |
 | [crlfscan](https://github.com/sentinel-dev-network/crlfscan) | Line-ending/BOM/whitespace auditor + fixer | [repo](https://github.com/sentinel-dev-network/crlfscan) |
 | [linechurn](https://github.com/sentinel-dev-network/linechurn) | Per-file git churn hotspots from --numstat, rename-aware, stdlib only | [repo](https://github.com/sentinel-dev-network/linechurn) |
 | [gitignore-audit](https://github.com/sentinel-dev-network/gitignore-audit) | Tracked files your .gitignore says should be ignored + committed secrets | [repo](https://github.com/sentinel-dev-network/gitignore-audit) |
