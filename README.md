@@ -14,6 +14,7 @@ _(auto-updated as tools ship)_
 
 | Tool | What it does | Repo |
 |------|--------------|------|
+| [casecvt](https://github.com/sentinel-dev-network/casecvt) | Identifier case converter (snake/camel/Pascal/kebab) | [repo](https://github.com/sentinel-dev-network/casecvt) |
 | [regexplain](https://github.com/sentinel-dev-network/regexplain) | Explain a regex in plain English + ReDoS pitfall warnings, offline stdlib | [repo](https://github.com/sentinel-dev-network/regexplain) |
 | [crlfscan](https://github.com/sentinel-dev-network/crlfscan) | Line-ending/BOM/whitespace auditor + fixer | [repo](https://github.com/sentinel-dev-network/crlfscan) |
 | [linechurn](https://github.com/sentinel-dev-network/linechurn) | Per-file git churn hotspots from --numstat, rename-aware, stdlib only | [repo](https://github.com/sentinel-dev-network/linechurn) |
